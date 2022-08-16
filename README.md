@@ -11,6 +11,6 @@ Field in the Customer table with a running list of references. It is used to doc
 ## Using the script:
 1. Clone the folder
 2. Move in the data files
-3. Rename them to either "mcolumns.csv" or "prows.csv" depending on whether there are too many columns or too many rows. 
+3. Rename them to either "mcolumns.csv" or "prows.csv" depending on whether its a Notepad export with too many columns or a Screen3 export with too many rows. 
 4. Run the appropriate script on macOS by running 
   python3 nameofscript.py 
